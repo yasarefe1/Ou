@@ -1,0 +1,7 @@
+{
+  "id": "dev.opensource.example",
+  "name": "Example Plugin",
+  "version": "1.0.0",
+  "description": "A simple plugin demonstrating the plugin architecture. It renders a custom widget and logs on initialization.",
+  "author": "Open Source Community"
+}
